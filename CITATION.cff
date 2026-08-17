@@ -1,9 +1,11 @@
 cff-version: 1.2.0
 message: "If you use these files, please cite both the paper and this deposit."
-title: "Interactive design tool for 3D-printed microfluidic membrane valves"
+title: "Interactive design tool for microfluidic membrane valve seat geometry"
 abstract: "Browser-based geometric closure calculator that converts a measured membrane
   deflection coefficient (kappa) into the membrane width and spherical valve-seat geometry
-  needed to close a monolithically 3D-printed microfluidic membrane valve."
+  needed to close a microfluidic membrane valve. The model is purely geometric and
+  independent of fabrication route; it was developed and demonstrated for monolithically
+  3D-printed valves."
 type: software
 authors:
   - family-names: Nguyen
